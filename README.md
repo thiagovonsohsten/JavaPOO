@@ -123,15 +123,6 @@ O projeto inclui um conjunto completo de testes unitários para validar a lógic
 
 ---
 
-## 🖼️ Demonstração da Interface
-
-### Tela Inicial
-![Tela Inicial](https://via.placeholder.com/500x300?text=Tela+Inicial+do+Sistema)
-
-### Bilhete Gerado com Sucesso
-![Bilhete Gerado](https://via.placeholder.com/500x300?text=Bilhete+Gerado+com+Sucesso)
-
----
 
 ## 📜 Licença
 
